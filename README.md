@@ -3,7 +3,7 @@ I’m [Harmeet Singh](https://portfolioharmeet.netlify.app/), a full stack devel
 
 #### These days I’m focused on:
 - React, Tailwind, Node.js, Express.js, AI & ML,
-- UI components with subtle motion (still learing)
+- UI components with subtle motion (still learning)
 - Small, thoughtful projects with polish
 
 ---
